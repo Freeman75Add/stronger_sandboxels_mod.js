@@ -1,7 +1,5 @@
 var modName = "mods/unknown.js";
 
-// no spaming under comments
-// test elements
 elements.Unknown = {
     color: "#ffffff",
     behavior: behaviors.wall,
@@ -20,7 +18,3 @@ elements.unknown2 = {
     viscosity: 1000,
     density: 0,
 };
-
-
-
-//nothing else here
