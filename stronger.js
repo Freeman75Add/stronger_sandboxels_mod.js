@@ -1,3 +1,5 @@
+var modName = "mods/unknown.js";
+
 // no spaming under comments
 // test elements
 elements.Unknown = {
